@@ -1,0 +1,5 @@
+D:\Experiment\CSharp\DevX\DevX\obj\Debug\DevX.csprojResolveAssemblyReference.cache
+D:\Experiment\CSharp\DevX\DevX\bin\Debug\DevX.dll
+D:\Experiment\CSharp\DevX\DevX\bin\Debug\DevX.pdb
+D:\Experiment\CSharp\DevX\DevX\obj\Debug\DevX.dll
+D:\Experiment\CSharp\DevX\DevX\obj\Debug\DevX.pdb
